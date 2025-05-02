@@ -38,7 +38,7 @@ def delete_user(username):
 
 if __name__ == "__main__":
     # Example usage
-    create_user("johndoe", "johndoe@example.com", 30, ["janedoe", "alice", "bob"])
+    create_user("johndoe", "johndoe@cand.it.com", 30, ["janedoe", "alice", "bob"])
     read_user("johndoe")
     update_user("johndoe", 31)
     delete_user("johndoe")
