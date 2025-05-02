@@ -1,3 +1,3 @@
 # config.py
-MONGO_URI = 'mongodb+srv://danfordmos:4MzkLwuG6QtLv3mx@cluster0.ealz44q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+MONGO_URI = 'mongodb://localhost:27017/'
 DB_NAME = 'social_media'
